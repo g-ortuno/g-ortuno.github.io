@@ -1,4 +1,10 @@
-{
-  "name": "Charlie's Cafe",
-  "description": "Google's biggest cafe. Serves a wide variety of food."
-}
+<!DOCTYPE html>
+<head>
+  <title>Charlie's</title>
+  <description>
+    {
+    "name": "Charlie's Cafe",
+    "description": "Google's biggest cafe. Serves a wide variety of food."
+    }
+  </description>
+</head>
