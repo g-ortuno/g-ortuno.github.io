@@ -1,5 +1,6 @@
 {
-  "title" : "Bathrooms",
+  "title" : "Restrooms",
+  "description" : "Office A Restrooms",
   "mapping" : true,
   "up" : "http://g-ortuno.github.io/reception.json",
   "right" : "http://g-ortuno.github.io/male-bathroom.json",
