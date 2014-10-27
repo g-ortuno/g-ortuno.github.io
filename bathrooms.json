@@ -2,8 +2,8 @@
   "title" : "Restrooms",
   "description" : "Office A Restrooms",
   "mapping" : true,
-  "up" : "http://g-ortuno.github.io/reception.json",
-  "right" : "http://g-ortuno.github.io/male-bathroom.json",
-  "down" : "http://g-ortuno.github.io/stairs.json",
-  "left" : "http://g-ortuno.github.io/female-bathroom.json"
+  "up" : "Reception",
+  "right" : "Men's Bathroom",
+  "down" : "Stairs",
+  "left" : "Women's Bathroom"
 }
