@@ -1,0 +1,8 @@
+{
+  "title" : "Bathrooms",
+  "mapping" : true,
+  "up" : "http://g-ortuno.github.io/reception.json",
+  "right" : "http://g-ortuno.github.io/male-bathroom.json",
+  "down" : "http://g-ortuno.github.io/stairs.json",
+  "left" : "http://g-ortuno.github.io/female-bathroom.json"
+}
