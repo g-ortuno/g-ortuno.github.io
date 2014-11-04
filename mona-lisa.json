@@ -3,11 +3,12 @@
   {
     "title" : "Mona Lisa History (Audio)",
     "audioSource" : "http://fileos.net/sons/LOUVRE%20-%20The_Mona_Lisa_smpl.mp3",
-    "description" : "The Mona Lisa is a half-length portrait of a woman by Leonardo da Vinci, which has been acclaimed as 'the best known, the most visited, the most written about, the most sung about, the most parodied work of art in the world'."
+    "description" : "The Mona Lisa is a half-length portrait of a woman by Leonardo da Vinci."
   },
   "fr":
   {
     "title" : "Mona Lisa History (Audio)",
     "audioSource" : "http://g-ortuno.github.io/export.mp3",
-    "description" : "La Joconde, ou Portrait de Mona Lisa, est un tableau de Léonard de Vinci, réalisé entre 1503 et 1506, qui représente un portrait mi-corps, probablement celui de la florentine Lisa Gherardini, épouse de Francesco del Giocondo."
-  },
+    "description" : "La Joconde, ou Portrait de Mona Lisa, est un tableau de Léonard de Vinci."
+  }
+}
